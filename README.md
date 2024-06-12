@@ -126,7 +126,7 @@ By default, the demo script will collect anonymous usage statistics during runti
 - Device-specific information (like mxid, connected cameras, device state and connection type)
 - Environment-specific information (like OS type, python version, package versions)
 
-We gather this data to better understand what environemnts are our users using, as well as assist better in support questions.
+We gather this data to better understand what environments are our users using, as well as assist better in support questions.
 
 **All of the data we collect is anonymous and you can disable it at any time**. To do so, click on the "Misc" tab and disable sending the statistics or create a `.consent` file in repository root with the following content
 
